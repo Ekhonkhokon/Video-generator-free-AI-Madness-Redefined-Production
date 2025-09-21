@@ -1,0 +1,5 @@
+{
+  "name": "AI Character & Lip-Sync Video Generator",
+  "description": "Generate a video with a talking character that lip-syncs to your audio. Provide a prompt, audio, and optional reference video to bring your character to life.",
+  "requestFramePermissions": []
+}
